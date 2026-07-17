@@ -3,3 +3,4 @@ build/
 *.node
 .vite/
 *.vsix
+.DS_Store
