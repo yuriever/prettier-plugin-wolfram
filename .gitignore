@@ -4,3 +4,7 @@ build/
 .vite/
 *.vsix
 .DS_Store
+
+# Obsidian vault files
+/.obsidian/
+/.trash/
